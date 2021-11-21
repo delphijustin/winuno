@@ -1,0 +1,7 @@
+USEUNIT("InoUnit.cpp");
+USEFORMNS("\\vboxsrv\Documents\winuno32\winuno.pas", Winuno, WinUnoWND);
+USEUNIT("\\VBOXSVR\Documents\winuno32\mahpcounter\HPCounter.pas");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

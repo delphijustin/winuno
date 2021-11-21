@@ -1,0 +1,35 @@
+MAKE Version 5.2  Copyright (c) 1987, 2000 Borland
+	C:\PROGRA~2\Borland\CBUILD~1\Bin\..\BIN\dcc32 -$YD -$W -$O- -v -JPHNE -M -Umahpcounter;C:\inetpub\ARDUIN~1\compiler\mahpcounter;.;C:\PROGRA~2\Borland\CBUILD~1\Bin\..\include;C:\PROGRA~2\Borland\CBUILD~1\Bin\..\include\vcl -D_DEBUG;NO_STRICT;_NO_VCL;_RTLDLL;USEPACKAGES -Omahpcounter;C:\inetpub\ARDUIN~1\compiler\mahpcounter;.;C:\PROGRA~2\Borland\CBUILD~1\Bin\..\include;C:\PROGRA~2\Borland\CBUILD~1\Bin\..\include\vcl --BCB .\winuno.PAS 
+Borland Delphi  Version 13.0  Copyright (c) 1983,99 Inprise Corporation
+winuno.pas(1) winuno.pas(1) winuno.pas(1) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(6) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(7) winuno.pas(9) winuno.pas(512) winuno.pas(676) winuno.pas(676) winuno.pas(676) winuno.pas(678) winuno.pas(1024) winuno.pas(1062) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(1129) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(1473) Warning: Return value of function 'InterruptThread' might be undefined
+winuno.pas(1529) Warning: Return value of function 'shiftIn' might be undefined
+winuno.pas(1536) winuno.pas(1600) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(1630) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(1631) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(1655) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(1886) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(1887) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(2048) winuno.pas(2104) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(2279) Warning: Return value of function 'digitalRead' might be undefined
+winuno.pas(2312) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(2324) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(2325) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(2326) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(2327) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(2328) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(2329) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(2330) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(2331) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(2332) Warning: Comparing signed and unsigned types - widened both operands
+winuno.pas(2333) Warning: Combining signed and unsigned types - widened both operands
+winuno.pas(2343) Hint: Variable 'comparams' is declared but never used in 'TWinUnoWND.FormCreate'
+winuno.pas(2560) winuno.pas(2864) Warning: Return value of function 'MomentaryButton' might be undefined
+winuno.pas(2875) 
+2876 lines, 0.12 seconds, 55843 bytes code, 1184 bytes data.
+	C:\PROGRA~2\Borland\CBUILD~1\Bin\..\BIN\bcc32 -tWC -tWM- -Od -H=C:\PROGRA~2\Borland\CBUILD~1\Bin\..\lib\vcl50.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y   -v -vi- -c -w-par -Imahpcounter;C:\inetpub\ARDUIN~1\compiler\mahpcounter;.;C:\PROGRA~2\Borland\CBUILD~1\Bin\..\include;C:\PROGRA~2\Borland\CBUILD~1\Bin\..\include\vcl -D_DEBUG;NO_STRICT;_NO_VCL;_RTLDLL;USEPACKAGES -n .\InoUnit.cpp 
+Borland C++ 5.5 for Win32 Copyright (c) 1993, 2000 Borland
+.\InoUnit.cpp:
+	C:\PROGRA~2\Borland\CBUILD~1\Bin\..\BIN\ilink32 @MAKE0000.@@@
+Turbo Incremental Link 5.00 Copyright (c) 1997, 2000 Borland
