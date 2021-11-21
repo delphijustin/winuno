@@ -1,0 +1,1 @@
+This is the graphing component for SerialPlot.dll
